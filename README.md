@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Hi, this is Fazilah!<br><br>🔭 I’m a Web Developer or a Software Engineer<br>📚 I'm currently learning the latest and trending frontend frameworks<br>⚡ In my free time, I design websites on Figma, build mini projects and games, etc.</p>
+<p align="left">Hi, this is Fazilah!<br><br>🔭 I’m a Web Developer<br>📚 I'm currently learning the latest and trending frontend frameworks<br>⚡ In my free time, I design websites on Figma, build mini projects and games, etc.</p>
 
 ###
 
