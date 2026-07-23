@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/FazSyed/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center">Hello There 👋</h1>
 
 ###
@@ -26,7 +20,7 @@
 
 ###
 
-<p align="left">Hi, this is Fazilah!<br><br>🔭 I’m a Web Developer<br>📚 I'm currently learning the latest and trending frontend frameworks<br>⚡ In my free time, I design websites on Figma, build mini projects and games, etc.</p>
+<p align="left">Hi, this is Fazilah!<br><br>🔭 I’m a Software Engineer<br>📚 I'm currently learning the latest and trending frontend frameworks<br>⚡ In my free time, I design websites on Figma, build mini projects and games, etc.</p>
 
 ###
 
